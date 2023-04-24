@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Vickywise27
+- 👋 Hi, I’m Victor
 - 👀 I’m interested in being a developer
-- 🌱 I’m currently learning software engineering
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Writing codes
 - 📫 How to reach me Whatsapp (+2349168960668)
 
